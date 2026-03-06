@@ -2,7 +2,7 @@
 
 📊 Data Analyst | SQL | Excel | Python | Data Visualization
 
-🚀 Passionate Data Analyst with 6 months of experience at Infosys as a System Associate, skilled in transforming raw data into meaningful insights to support business decisions.
+🚀 Passionate Data Analyst with 6 months of training experience at Infosys as a System Associate, skilled in transforming raw data into meaningful insights to support business decisions.
 
 I enjoy working with data cleaning, querying, visualization, and analytical problem solving to uncover patterns and trends from datasets.
 
