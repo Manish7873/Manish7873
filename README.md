@@ -76,6 +76,7 @@ Here are some projects I work on:
 •Real-world Data Projects
 
 📬 Connect With Me
+
 📧 Email: manishsinha7873@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/manishkumarsinha78
 💻 GitHub: https://github.com/Manish7873
