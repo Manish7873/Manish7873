@@ -10,9 +10,13 @@ I enjoy working with data cleaning, querying, visualization, and analytical prob
 👨‍💻 About Me
 
 📊 Passionate about Data Analytics & Business Intelligence
+
 🧠 Strong interest in data-driven decision making
+
 📈 Experienced in data cleaning, exploration and visualization
+
 🛠 Skilled in SQL, Excel, Python, and BI tools
+
 🚀 Constantly learning advanced analytics and real-world data projects
 
 
