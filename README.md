@@ -31,6 +31,7 @@ I enjoy working with data cleaning, querying, visualization, and analytical prob
 •Microsoft Office
 
 💼 Professional Experience
+
 System Associate — Infosys
 
 📅 Duration: 6 Months
