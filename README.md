@@ -78,7 +78,9 @@ Here are some projects I work on:
 📬 Connect With Me
 
 📧 Email: manishsinha7873@gmail.com
+
 💼 LinkedIn: https://www.linkedin.com/in/manishkumarsinha78
+
 💻 GitHub: https://github.com/Manish7873
 <!--
 **Manish7873/Manish7873** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
