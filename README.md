@@ -8,7 +8,7 @@ I enjoy working with data cleaning, querying, visualization, and analytical prob
 
 
 
-🛠 Tech Stack
+🛠 Tech Stack:
 
 💻 Programming & Libraries
 •Python
@@ -27,12 +27,12 @@ I enjoy working with data cleaning, querying, visualization, and analytical prob
 
 ⚙ Tools
 •Git & GitHub
-•Jupyter Notebook
 •VS Code
-•Microsoft Excel
+•Microsoft Office
 
 💼 Professional Experience
 System Associate — Infosys
+
 📅 Duration: 6 Months
 
 Key Highlights
