@@ -44,24 +44,20 @@ Key Highlights:
 •Collaborated with teams to identify data issues and improve data accuracy
 •Supported automation of repetitive reporting tasks using Excel and Python
 
-📊 Projects
+Projects:
 Here are some projects I work on:
 
-📈 Sales Data Analysis
+1) Sales Data Analysis
 
-🛒 E-Commerce Data Analytics using Excel
+2) E-Commerce sales Analysis using Excel
 
-📊 Excel Dashboard Projects
+3) Excel Dashboard Projects
 
-🧠 SQL Data Analysis Queries
+4) SQL Data Analysis Queries
 
-📉 Business Performance dashboard Analysis 
+5) Business Performance dashboard Analysis 
 
-📚 Currently Learning
-•Advanced SQL (Window Functions)
-•Advanced Power BI Dashboards
-•Python for Data Analytics
-•Real-world Data Projects
+
 
 📬 Connect With Me
 
