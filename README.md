@@ -35,7 +35,8 @@ System Associate — Infosys
 
 📅 Duration: 6 Months
 
-Key Highlights
+Key Highlights:
+
 •Extracted and analyzed data from relational databases using SQL queries
 •Worked with large datasets to identify patterns and system insights
 •Performed data cleaning, validation, and preprocessing
@@ -45,10 +46,15 @@ Key Highlights
 
 📊 Projects
 Here are some projects I work on:
+
 📈 Sales Data Analysis
+
 🛒 E-Commerce Data Analytics using Excel
+
 📊 Excel Dashboard Projects
+
 🧠 SQL Data Analysis Queries
+
 📉 Business Performance dashboard Analysis 
 
 📚 Currently Learning
