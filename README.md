@@ -19,9 +19,8 @@ I enjoy working with data cleaning, querying, visualization, and analytical prob
 🛠 Tech Stack
 
 📊 Data Analytics
-� � � �
-💻 Programming & Libraries
 
+💻 Programming & Libraries
 •Python
 •Pandas
 •NumPy
@@ -31,14 +30,12 @@ I enjoy working with data cleaning, querying, visualization, and analytical prob
 •MySQL
 
 📊 Data Visualization
-
 •Microsoft Excel Dashboards
 •Power BI
 •Data Storytelling
 •KPI Tracking
 
 ⚙ Tools
-
 •Git & GitHub
 •Jupyter Notebook
 •VS Code
@@ -47,6 +44,7 @@ I enjoy working with data cleaning, querying, visualization, and analytical prob
 💼 Professional Experience
 System Associate — Infosys
 📅 Duration: 6 Months
+
 Key Highlights
 •Extracted and analyzed data from relational databases using SQL queries
 •Worked with large datasets to identify patterns and system insights
@@ -58,22 +56,21 @@ Key Highlights
 📊 Projects
 Here are some projects I work on:
 📈 Sales Data Analysis
-🛒 E-Commerce Data Analytics
+🛒 E-Commerce Data Analytics using Excel
 📊 Excel Dashboard Projects
 🧠 SQL Data Analysis Queries
-📉 Business Performance Analytics
+📉 Business Performance dashboard Analysis 
 
-�
 📚 Currently Learning
 •Advanced SQL (Window Functions)
-•Power BI Dashboards
+•Advanced Power BI Dashboards
 •Python for Data Analytics
 •Real-world Data Projects
 
 📬 Connect With Me
 📧 Email: manishsinha7873@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/manishkumarsinha78
-💻 GitHub: https://github.com/yourusername⁠�
+💻 GitHub: https://github.com/Manish7873
 <!--
 **Manish7873/Manish7873** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
